@@ -8,7 +8,7 @@ Welcome to Tesla Web Clone built with the MERN stack. Our project aims to replic
 
 - **🚗 Vehicle Showroom**: Explore a stunning collection of Tesla vehicles with detailed specifications and images.
 - **🎥 Media Gallery**: Immerse yourself in the world of Tesla with a curated selection of videos and images.
-- 
+
 ## Technologies Used
 
 ### Frontend:
